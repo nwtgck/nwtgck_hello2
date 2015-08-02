@@ -1,5 +1,8 @@
 require "nwtgck_hello2/version"
 
+
+puts 'hello, world'
+
 module NwtgckHello2
   # Your code goes here...
 
